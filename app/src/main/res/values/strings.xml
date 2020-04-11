@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teleinformatyka</string>
+    <string name="oblicz">Oblicz</string>
+    <string name="dane">Dane</string>
+    <string name="crc16">CRC16</string>
+    <string name="crc16_reverse">CRC16 Reverse</string>
+    <string name="crc32">CRC32</string>
+</resources>
